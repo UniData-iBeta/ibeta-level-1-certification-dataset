@@ -1,0 +1,17 @@
+Name of the attack;Attribute;Background;Angle;Camera position;Recorder model;Replay model;Resolution;Age;Gender;Ethnicity
+Real;Without attribute;¹ 2;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+Real;Without attribute;¹ 2;Left profile;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask;Glasses, glossy paper;¹ 2;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask;Glasses, glossy paper;¹ 3;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask with cut-out eyes;Glasses, matte paper;¹ 2;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask with cut-out eyes;Glasses, matte paper;¹ 3;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask on a cylinder;Without attribute, glossy paper;¹ 2;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+2D mask on a cylinder;Without attribute, glossy paper;¹ 3;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+3D mask;Sunglasses, glossy paper;¹ 2;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+3D mask;Sunglasses, glossy paper;¹ 3;Full-face;Close;Samsung Galaxy A53;-;2160x3840;23;Male;Caucasian
+Replay - phone;Without attribute;No background;Full-face;Very close;Samsung Galaxy A53;iPhone 14;2160x3840;23;Male;Caucasian
+Replay - phone;Without attribute;¹ 1;Full-face;Close;Samsung Galaxy A53;iPhone 14;2160x3840;23;Male;Caucasian
+Replay - monitor;Without attribute;No background;Full-face;Very close;Samsung Galaxy A53;ASUS Vivobook Go 15;2160x3840;23;Male;Caucasian
+Replay - monitor;Without attribute;¹ 1;Full-face;Close;Samsung Galaxy A53;ASUS Vivobook Go 15;2160x3840;23;Male;Caucasian
+Replay - pad;Without attribute;No background;Full-face;Very close;Samsung Galaxy A53;Samsung Galaxy Tab S9;2160x3840;23;Male;Caucasian
+Replay - pad;Without attribute;¹ 1;Full-face;Close;Samsung Galaxy A53;Samsung Galaxy Tab S9;2160x3840;23;Male;Caucasian
